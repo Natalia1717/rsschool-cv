@@ -1,5 +1,5 @@
 1 Mironova Natalia
-2 Natalia Mironova
+2 nata17_92@mail.ru
 3 junior Web developer
 4 Html, CSS, Javascript
 5 GitHub
