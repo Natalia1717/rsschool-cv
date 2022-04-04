@@ -5,5 +5,5 @@
 5 GitHub
 6 GitHub
 7 2010-2015 RUSSIAN STATE UNIVERSITY FOR THE HUMANITIES. Economist
-8 Pre-intermedia
+8 Pre-intermedia.
 
